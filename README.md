@@ -1,6 +1,8 @@
 # R OBO Parser v.0.0.1
 
-R OBO is a simple parser for term attributes in OBO v.1.2 files.
+R OBO is a simple, naive parser for term attributes in OBO v.1.2 ontology files such as found on Bioportal.
+
+OBO is text file  used by OBO-edit for viewing and editing ontologies. See [here](http://owlcollab.github.io/oboformat/doc/GO.format.obo-1_2.html) for definition.
 
 ## Getting Started
 
